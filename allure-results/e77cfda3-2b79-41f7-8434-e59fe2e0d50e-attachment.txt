@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_LoginPage.py:65 *****************Start*********************
+[32mINFO    [0m root:test_LoginPage.py:66 ***********Verifying login page ***********
+[32mINFO    [0m root:test_LoginPage.py:77 *******use invalid password test login page passed********

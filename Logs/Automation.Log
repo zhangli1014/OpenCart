@@ -1,0 +1,78 @@
+2024-12-30 12:04:51,958 - root - INFO - *****************Start*********************
+2024-12-30 12:04:51,958 - root - INFO - *****************Start*********************
+2024-12-30 12:04:51,959 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:04:51,959 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:04:55,764 - root - INFO - *******use correct username and password login page test passed********
+2024-12-30 12:04:55,764 - root - INFO - *******use correct username and password login page test passed********
+2024-12-30 12:05:10,283 - root - INFO - *****************Start*********************
+2024-12-30 12:05:10,283 - root - INFO - *****************Start*********************
+2024-12-30 12:05:10,283 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:05:10,283 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:05:13,856 - root - INFO - *******use invalid username test login page passed********
+2024-12-30 12:05:13,856 - root - INFO - *******use invalid username test login page passed********
+2024-12-30 12:05:28,178 - root - INFO - *****************Start*********************
+2024-12-30 12:05:28,178 - root - INFO - *****************Start*********************
+2024-12-30 12:05:28,179 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:05:28,179 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:05:31,676 - root - INFO - *******use invalid password test login page passed********
+2024-12-30 12:05:31,676 - root - INFO - *******use invalid password test login page passed********
+2024-12-30 12:06:29,670 - root - INFO - *****************Start*********************
+2024-12-30 12:06:29,670 - root - INFO - *****************Start*********************
+2024-12-30 12:06:29,670 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:06:29,670 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:06:33,414 - root - INFO - *******use correct username and password login page test passed********
+2024-12-30 12:06:33,414 - root - INFO - *******use correct username and password login page test passed********
+2024-12-30 12:06:47,177 - root - INFO - *****************Start*********************
+2024-12-30 12:06:47,177 - root - INFO - *****************Start*********************
+2024-12-30 12:06:47,177 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:06:47,177 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:06:50,571 - root - INFO - *******use invalid username test login page passed********
+2024-12-30 12:06:50,571 - root - INFO - *******use invalid username test login page passed********
+2024-12-30 12:07:04,558 - root - INFO - *****************Start*********************
+2024-12-30 12:07:04,558 - root - INFO - *****************Start*********************
+2024-12-30 12:07:04,558 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:07:04,558 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:07:08,320 - root - INFO - *******use invalid password test login page passed********
+2024-12-30 12:07:08,320 - root - INFO - *******use invalid password test login page passed********
+2024-12-30 12:07:17,609 - root - INFO - *****************Start*********************
+2024-12-30 12:07:17,609 - root - INFO - *****************Start*********************
+2024-12-30 12:07:17,609 - root - INFO - ***********Verifying login page ddt***********
+2024-12-30 12:07:17,609 - root - INFO - ***********Verifying login page ddt***********
+2024-12-30 12:07:21,349 - root - INFO - *******use correct username and password ddt test login page  passed********
+2024-12-30 12:07:21,349 - root - INFO - *******use correct username and password ddt test login page  passed********
+2024-12-30 12:07:25,721 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2024-12-30 12:07:25,721 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2024-12-30 12:07:29,439 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2024-12-30 12:07:29,439 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2024-12-30 12:07:29,439 - root - INFO - ************Login DDT Test Passed***********
+2024-12-30 12:07:29,439 - root - INFO - ************Login DDT Test Passed***********
+2024-12-30 12:10:02,575 - root - INFO - *****************Start*********************
+2024-12-30 12:10:02,575 - root - INFO - *****************Start*********************
+2024-12-30 12:10:02,576 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:10:02,576 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:10:06,990 - root - INFO - *******use correct username and password login page test passed********
+2024-12-30 12:10:06,990 - root - INFO - *******use correct username and password login page test passed********
+2024-12-30 12:10:21,379 - root - INFO - *****************Start*********************
+2024-12-30 12:10:21,379 - root - INFO - *****************Start*********************
+2024-12-30 12:10:21,379 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:10:21,379 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:10:25,170 - root - INFO - *******use invalid username test login page passed********
+2024-12-30 12:10:25,170 - root - INFO - *******use invalid username test login page passed********
+2024-12-30 12:10:38,591 - root - INFO - *****************Start*********************
+2024-12-30 12:10:38,591 - root - INFO - *****************Start*********************
+2024-12-30 12:10:38,592 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:10:38,592 - root - INFO - ***********Verifying login page ***********
+2024-12-30 12:10:42,772 - root - INFO - *******use invalid password test login page passed********
+2024-12-30 12:10:42,772 - root - INFO - *******use invalid password test login page passed********
+2024-12-30 12:10:51,777 - root - INFO - *****************Start*********************
+2024-12-30 12:10:51,777 - root - INFO - *****************Start*********************
+2024-12-30 12:10:51,778 - root - INFO - ***********Verifying login page ddt***********
+2024-12-30 12:10:51,778 - root - INFO - ***********Verifying login page ddt***********
+2024-12-30 12:10:55,602 - root - INFO - *******use correct username and password ddt test login page  passed********
+2024-12-30 12:10:55,602 - root - INFO - *******use correct username and password ddt test login page  passed********
+2024-12-30 12:11:00,394 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2024-12-30 12:11:00,394 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2024-12-30 12:11:03,760 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2024-12-30 12:11:03,760 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2024-12-30 12:11:03,760 - root - INFO - ************Login DDT Test Passed***********
+2024-12-30 12:11:03,760 - root - INFO - ************Login DDT Test Passed***********
