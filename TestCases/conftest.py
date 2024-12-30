@@ -15,7 +15,7 @@ def setup_teardown(request):
 
     if browser == 'chrome':
         #driver = webdriver.Chrome()
-        driver = webdriver.chrome(options = chrome_options)
+        driver = webdriver.Chrome(options = chrome_options)
     elif browser == 'firefox':
         driver = webdriver.Firefox()
     elif browser == 'edge':
