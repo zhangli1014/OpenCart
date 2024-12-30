@@ -1,13 +1,21 @@
 import pytest
 from selenium import webdriver
 from utilities.readconfig import readConfig
+from selenium.webdriver.chrome.options import Options
 
 @pytest.fixture()
 def setup_teardown(request):
     baseURL = readConfig.getconfig('opencart info', 'baseURL')
     browser = readConfig.getconfig('opencart info', 'browser')
+    # 设置 Chrome 无头模式
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")  # 无头模式
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+
     if browser == 'chrome':
-        driver = webdriver.Chrome()
+        #driver = webdriver.Chrome()
+        driver = webdriver.chrome(options = chrome_options)
     elif browser == 'firefox':
         driver = webdriver.Firefox()
     elif browser == 'edge':
