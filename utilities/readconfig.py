@@ -10,4 +10,4 @@ class readConfig:
         return url
 
 if __name__=='__main__':
-    print(readConfig().getconfig('opencart info','baseURL'))
+    print(readConfig().getconfig('s3 info','bucketName'))

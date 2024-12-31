@@ -1,23 +1,25 @@
 import random
 import string
-
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import pytest
+import time
+
 from pageObjects.LoginPage import LoginPage
 from pageObjects.HomePage import HomePage
 from pageObjects.AccountPage import AccountPage
 from utilities.CustomerLog import LogGen
 from utilities.readconfig import readConfig
-import pytest
-import time
 from utilities import ExcelUtility
 from utilities.readconfig import readConfig
 from utilities.s3_reader import *
+
 @pytest.mark.usefixtures("setup_teardown")
 class TestLogin:
     logger = LogGen.loggen()
 
+    '''
     @pytest.mark.pc
     def test_login_ddt(self):
         self.path = ".//TestData//LoginInfo.xlsx"
@@ -70,8 +72,10 @@ class TestLogin:
             self.logger.info('************Login DDT Test Fail***********')
             assert False
 
+    '''
     @pytest.mark.ec2
     def test_login_ddt(self):
+
         self.bucket_name = readConfig.getconfig('s3 info', 'bucketName')
         self.file_key = readConfig.getconfig('s3 info', 'fileKey')
         self.workbook = get_data_s3(self.bucket_name,self.file_key)

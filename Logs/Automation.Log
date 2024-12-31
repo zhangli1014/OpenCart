@@ -76,3 +76,10 @@
 2024-12-30 12:11:03,760 - root - INFO - *******use invalid username or invalid pass test login page passed********
 2024-12-30 12:11:03,760 - root - INFO - ************Login DDT Test Passed***********
 2024-12-30 12:11:03,760 - root - INFO - ************Login DDT Test Passed***********
+2024-12-30 22:27:02,869 - botocore.credentials - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-12-30 22:27:05,673 - root - INFO - *****************Start*********************
+2024-12-30 22:27:05,673 - root - INFO - ***********Verifying login page ddt***********
+2024-12-30 22:27:09,254 - root - INFO - *******use correct username and password ddt test login page  passed********
+2024-12-30 22:27:13,676 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2024-12-30 22:27:16,877 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2024-12-30 22:27:16,877 - root - INFO - ************Login DDT Test Passed***********
