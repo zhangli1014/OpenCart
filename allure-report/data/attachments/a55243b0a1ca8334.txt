@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_LoginPage.py:44 *****************Start*********************
+[32mINFO    [0m root:test_LoginPage.py:45 ***********Verifying login page ***********
+[32mINFO    [0m root:test_LoginPage.py:56 *******use invalid username test login page passed********
