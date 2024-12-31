@@ -72,8 +72,8 @@ class TestLogin:
 
     @pytest.mark.ec2
     def test_login_ddt(self):
-        self.bucket_name = readConfig('s3 info', 'bucketName')
-        self.file_key = readConfig('s3 info', 'fileKey')
+        self.bucket_name = readConfig.getconfig('s3 info', 'bucketName')
+        self.file_key = readConfig.getconfig('s3 info', 'fileKey')
         self.workbook = get_data_s3(self.bucket_name,self.file_key)
         self.rows = getRowCount_froms3(self.workbook,'LoginInfo')
         self.columns = getColumnCount_froms3(self.workbook, 'LoginInfo')
