@@ -18,7 +18,7 @@ from utilities.s3_reader import *
 class TestLogin:
     logger = LogGen.loggen()
 
-    @pytest.marker.pc
+    @pytest.mark.pc
     def test_login_ddt(self):
         self.path = ".//TestData//LoginInfo.xlsx"
 
@@ -70,7 +70,7 @@ class TestLogin:
             self.logger.info('************Login DDT Test Fail***********')
             assert False
 
-    @pytest.marker.ec2
+    @pytest.mark.ec2
     def test_login_ddt(self):
         self.bucket_name = readConfig('s3 info', 'bucketName')
         self.file_key = readConfig('s3 info', 'fileKey')
