@@ -1,6 +1,0 @@
-[32mINFO    [0m root:test_LoginPageDDT.py:29 *****************Start*********************
-[32mINFO    [0m root:test_LoginPageDDT.py:30 ***********Verifying login page ddt***********
-[32mINFO    [0m root:test_LoginPageDDT.py:48 *******use correct username and password ddt test login page  passed********
-[32mINFO    [0m root:test_LoginPageDDT.py:57 *******use invalid username or invalid pass test login page passed********
-[32mINFO    [0m root:test_LoginPageDDT.py:57 *******use invalid username or invalid pass test login page passed********
-[32mINFO    [0m root:test_LoginPageDDT.py:64 ************Login DDT Test Passed***********

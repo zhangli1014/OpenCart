@@ -1,0 +1,7 @@
+[32mINFO    [0m botocore.credentials:credentials.py:1075 Found credentials from IAM Role: EC2-S3-Access-Role
+[32mINFO    [0m root:test_LoginPageDDT.py:88 *****************Start*********************
+[32mINFO    [0m root:test_LoginPageDDT.py:89 ***********Verifying login page ddt***********
+[32mINFO    [0m root:test_LoginPageDDT.py:107 *******use correct username and password ddt test login page  passed********
+[32mINFO    [0m root:test_LoginPageDDT.py:116 *******use invalid username or invalid pass test login page passed********
+[32mINFO    [0m root:test_LoginPageDDT.py:116 *******use invalid username or invalid pass test login page passed********
+[32mINFO    [0m root:test_LoginPageDDT.py:123 ************Login DDT Test Passed***********

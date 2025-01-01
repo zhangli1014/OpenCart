@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_LoginPage.py:22 *****************Start*********************
+[32mINFO    [0m root:test_LoginPage.py:23 ***********Verifying login page ***********
+[32mINFO    [0m root:test_LoginPage.py:35 *******use correct username and password login page test passed********
