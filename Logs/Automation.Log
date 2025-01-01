@@ -321,3 +321,67 @@
 2025-01-01 01:40:40,299 - root - INFO - *******use invalid username or invalid pass test login page passed********
 2025-01-01 01:40:40,299 - root - INFO - ************Login DDT Test Passed***********
 2025-01-01 01:40:40,299 - root - INFO - ************Login DDT Test Passed***********
+2025-01-01 03:05:38,803 - root - INFO - *****************Start*********************
+2025-01-01 03:05:38,803 - root - INFO - *****************Start*********************
+2025-01-01 03:05:38,803 - root - INFO - ***********Verifying login page ***********
+2025-01-01 03:05:38,803 - root - INFO - ***********Verifying login page ***********
+2025-01-01 03:05:42,748 - root - INFO - *******use correct username and password login page test passed********
+2025-01-01 03:05:42,748 - root - INFO - *******use correct username and password login page test passed********
+2025-01-01 03:05:49,445 - root - INFO - *****************Start*********************
+2025-01-01 03:05:49,445 - root - INFO - *****************Start*********************
+2025-01-01 03:05:49,445 - root - INFO - ***********Verifying login page ***********
+2025-01-01 03:05:49,445 - root - INFO - ***********Verifying login page ***********
+2025-01-01 03:05:53,072 - root - INFO - *******use invalid username test login page passed********
+2025-01-01 03:05:53,072 - root - INFO - *******use invalid username test login page passed********
+2025-01-01 03:05:59,780 - root - INFO - *****************Start*********************
+2025-01-01 03:05:59,780 - root - INFO - *****************Start*********************
+2025-01-01 03:05:59,781 - root - INFO - ***********Verifying login page ***********
+2025-01-01 03:05:59,781 - root - INFO - ***********Verifying login page ***********
+2025-01-01 03:06:03,435 - root - INFO - *******use invalid password test login page passed********
+2025-01-01 03:06:03,435 - root - INFO - *******use invalid password test login page passed********
+2025-01-01 03:06:06,766 - botocore.credentials - INFO - Found credentials from IAM Role: EC2-S3-Access-Role
+2025-01-01 03:06:06,766 - botocore.credentials - INFO - Found credentials from IAM Role: EC2-S3-Access-Role
+2025-01-01 03:06:09,014 - root - INFO - *****************Start*********************
+2025-01-01 03:06:09,014 - root - INFO - *****************Start*********************
+2025-01-01 03:06:09,014 - root - INFO - ***********Verifying login page ddt***********
+2025-01-01 03:06:09,014 - root - INFO - ***********Verifying login page ddt***********
+2025-01-01 03:06:12,905 - root - INFO - *******use correct username and password ddt test login page  passed********
+2025-01-01 03:06:12,905 - root - INFO - *******use correct username and password ddt test login page  passed********
+2025-01-01 03:06:17,615 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2025-01-01 03:06:17,615 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2025-01-01 03:06:21,097 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2025-01-01 03:06:21,097 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2025-01-01 03:06:21,098 - root - INFO - ************Login DDT Test Passed***********
+2025-01-01 03:06:21,098 - root - INFO - ************Login DDT Test Passed***********
+2025-01-01 03:14:39,272 - root - INFO - *****************Start*********************
+2025-01-01 03:14:39,272 - root - INFO - *****************Start*********************
+2025-01-01 03:14:39,272 - root - INFO - ***********Verifying login page ***********
+2025-01-01 03:14:39,272 - root - INFO - ***********Verifying login page ***********
+2025-01-01 03:14:43,298 - root - INFO - *******use correct username and password login page test passed********
+2025-01-01 03:14:43,298 - root - INFO - *******use correct username and password login page test passed********
+2025-01-01 03:14:49,610 - root - INFO - *****************Start*********************
+2025-01-01 03:14:49,610 - root - INFO - *****************Start*********************
+2025-01-01 03:14:49,610 - root - INFO - ***********Verifying login page ***********
+2025-01-01 03:14:49,610 - root - INFO - ***********Verifying login page ***********
+2025-01-01 03:14:53,254 - root - INFO - *******use invalid username test login page passed********
+2025-01-01 03:14:53,254 - root - INFO - *******use invalid username test login page passed********
+2025-01-01 03:14:59,591 - root - INFO - *****************Start*********************
+2025-01-01 03:14:59,591 - root - INFO - *****************Start*********************
+2025-01-01 03:14:59,591 - root - INFO - ***********Verifying login page ***********
+2025-01-01 03:14:59,591 - root - INFO - ***********Verifying login page ***********
+2025-01-01 03:15:03,229 - root - INFO - *******use invalid password test login page passed********
+2025-01-01 03:15:03,229 - root - INFO - *******use invalid password test login page passed********
+2025-01-01 03:15:07,226 - botocore.credentials - INFO - Found credentials from IAM Role: EC2-S3-Access-Role
+2025-01-01 03:15:07,226 - botocore.credentials - INFO - Found credentials from IAM Role: EC2-S3-Access-Role
+2025-01-01 03:15:09,466 - root - INFO - *****************Start*********************
+2025-01-01 03:15:09,466 - root - INFO - *****************Start*********************
+2025-01-01 03:15:09,467 - root - INFO - ***********Verifying login page ddt***********
+2025-01-01 03:15:09,467 - root - INFO - ***********Verifying login page ddt***********
+2025-01-01 03:15:13,311 - root - INFO - *******use correct username and password ddt test login page  passed********
+2025-01-01 03:15:13,311 - root - INFO - *******use correct username and password ddt test login page  passed********
+2025-01-01 03:15:17,917 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2025-01-01 03:15:17,917 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2025-01-01 03:15:21,555 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2025-01-01 03:15:21,555 - root - INFO - *******use invalid username or invalid pass test login page passed********
+2025-01-01 03:15:21,555 - root - INFO - ************Login DDT Test Passed***********
+2025-01-01 03:15:21,555 - root - INFO - ************Login DDT Test Passed***********
