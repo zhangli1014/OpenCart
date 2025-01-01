@@ -4,7 +4,7 @@ import datetime
 from utilities.readconfig import readConfig
 import os
 
-bucket_name = readConfig.getconfig('s3 info', 'bucketName')
+bucket_name = readConfig.getconfig('s3 info', 'testreport-bucketName')
 timestamp = datetime.datetime.now().strftime("%Y-%m-%d")
 def run_tests_and_upload_report():
     # Step 1: Run the Selenium UI Tests and generate Allure results
