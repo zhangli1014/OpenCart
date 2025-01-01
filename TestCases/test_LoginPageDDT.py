@@ -73,7 +73,7 @@ class TestLogin:
             assert False
 
     '''
-    @pytest.mark.ec2
+    
     def test_login_ddt(self):
 
         self.bucket_name = readConfig.getconfig('s3 info', 'bucketName')

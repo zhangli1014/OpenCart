@@ -2,3 +2,5 @@ pytest
 selenium
 openpyxl
 boto3
+allure-pytest
+pytest --html
