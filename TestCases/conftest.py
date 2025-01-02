@@ -14,8 +14,8 @@ def setup_teardown(request):
     chrome_options.add_argument("--disable-dev-shm-usage")
 
     if browser == 'chrome':
-        #driver = webdriver.Chrome()
-        driver = webdriver.Chrome(options = chrome_options)
+        driver = webdriver.Chrome()
+        #driver = webdriver.Chrome(options = chrome_options)
     elif browser == 'firefox':
         driver = webdriver.Firefox()
     elif browser == 'edge':

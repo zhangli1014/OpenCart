@@ -22,7 +22,7 @@ class RegisterPage(BasePage):
     email_warning_xpath = "//input[@id='input-email']/following-sibling::div"
     telephone_warning_xpath = "//input[@id='input-telephone']/following-sibling::div"
     password_warning_xpath = "//input[@id='input-password']/following-sibling::div"
-
+    password_confirm_warning_xpath = "//input[@id='input-confirm']/following-sibling::div"
     def enter_first_name(self, first_name_text):
         self.type_into_element("first_name_field_id", self.first_name_field_id,first_name_text)
 
@@ -70,3 +70,6 @@ class RegisterPage(BasePage):
 
     def retrieve_password_warning(self):
         return self.retrieve_element_text("password_warning_xpath", self.password_warning_xpath)
+
+    def retrieve_password_confirm_warning(self):
+        return self.retrieve_element_text("password_confirm_warning_xpath", self.password_confirm_warning_xpath)

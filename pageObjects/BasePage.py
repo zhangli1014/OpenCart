@@ -31,7 +31,7 @@ class BasePage:
     def get_element(self, locator_name, locator_value):
 
         element = None
-        print(f"Locator Name: {locator_name}, Locator Value: {locator_value}")  # Debugging log
+        #print(f"Locator Name: {locator_name}, Locator Value: {locator_value}")  # Debugging log
         if "_id" in locator_name:
             element = self.driver.find_element(By.ID, locator_value)
         elif "_name" in locator_name:
@@ -40,7 +40,7 @@ class BasePage:
             element = self.driver.find_element(By.CLASS_NAME, locator_value)
         elif "_link_text" in locator_name:
             element = self.driver.find_element(By.LINK_TEXT, locator_value)
-        elif "_xpath"in locator_name:
+        elif "_xpath" in locator_name:
             element = self.driver.find_element(By.XPATH, locator_value)
         elif "_css" in locator_name:
             element = self.driver.find_element(By.CSS_SELECTOR, locator_value)

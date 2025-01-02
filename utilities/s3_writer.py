@@ -12,7 +12,7 @@ def upload_report_to_s3(local_dir, bucket_name, s3_folder):
         for file in files:
             # Create the S3 path
             ext = os.path.splitext(file)[1]
-            if ext=='.html':
+            if ext=='.html' or ext=='.xlsx': #write test report or testdata
                 s3_path = os.path.join(s3_folder, os.path.relpath(os.path.join(root, file), local_dir))
                 try:
                     s3.upload_file(os.path.join(root, file), bucket_name, s3_path)
