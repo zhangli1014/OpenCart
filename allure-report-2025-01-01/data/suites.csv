@@ -1,6 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Jan 01 03:14:46 UTC 2025","Wed Jan 01 03:14:53 UTC 2025","6648","","test_LoginPage","TestLogin","","","test_login_with_invalid_email",""
-"passed","Wed Jan 01 03:14:56 UTC 2025","Wed Jan 01 03:15:03 UTC 2025","6641","","test_LoginPage","TestLogin","","","test_login_with_invalid_password",""
-"passed","Wed Jan 01 03:14:36 UTC 2025","Wed Jan 01 03:14:43 UTC 2025","7030","","test_LoginPage","TestLogin","","","test_login_with_valid_credentials",""
-"passed","Wed Jan 01 03:15:07 UTC 2025","Wed Jan 01 03:15:21 UTC 2025","14355","","test_LoginPageDDT","TestLogin","","","test_login_ddt",""
-"passed","Wed Jan 01 03:14:32 UTC 2025","Wed Jan 01 03:14:32 UTC 2025","0","","test_HomePage","TestHomePage","","","test_enter_product_into_search_box",""

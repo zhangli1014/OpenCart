@@ -1,25 +1,16 @@
 import time
 
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from selenium import webdriver
+from selenium.webdriver.common.by import By
 
-def test_1():
+# 启动浏览器
+driver = webdriver.Chrome()
+driver.get("http://localhost/opencart/upload/index.php")
 
-    driver = webdriver.Chrome()
-    driver.get("https://tutorialsninja.com/demo/")
-    driver.find_element(By.XPATH,"//a[@title='My Account']").click()
-    driver.find_element(By.LINK_TEXT,"Register").click()
-    driver.find_element(By.XPATH,"//input[@value='Continue']").click()
-    time.sleep(4)
+driver.find_element(By.LINK_TEXT,'Tablets').click()
+time.sleep(10)
 
-    privacy = driver.find_element(By.XPATH,"//div[@id='account-register']/div[1]")
-    print(privacy.text)
-    assert privacy.text=="Warning: You must agree to the Privacy Policy!"
+driver.find_element(By.XPATH,'//button[contains(@onclick,"cart.add")]').click()
+time.sleep(5)
 
-    element = driver.find_element(By.XPATH,"//input[@id='input-firstname']/following-sibling::div")
-    print(element.text)
-
-    assert element.text=="First Name must be between 1 and 32 characters!"
-
+driver.quit()

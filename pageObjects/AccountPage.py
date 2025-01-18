@@ -15,3 +15,5 @@ class AccountPage(BasePage):
     def logout_click(self):
         logout_option = self.element_action_click("logout_option_link_text",self.logout_option_link_text)
 
+
+

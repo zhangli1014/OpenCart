@@ -1,86 +1,89 @@
-2025-01-02 15:11:47,166 - root - INFO - *****************Start*********************
-2025-01-02 15:11:47,166 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:11:49,821 - root - INFO - ****************register success with mandatoryfields***********
-2025-01-02 15:12:04,079 - root - INFO - *****************Start*********************
-2025-01-02 15:12:04,079 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:17:14,593 - root - INFO - *****************Start*********************
-2025-01-02 15:17:14,593 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:17:17,336 - root - INFO - ****************register success with mandatoryfields***********
-2025-01-02 15:17:31,563 - root - INFO - *****************Start*********************
-2025-01-02 15:17:31,563 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:19:06,918 - root - INFO - *****************Start*********************
-2025-01-02 15:19:06,918 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:19:10,127 - root - INFO - ****************register success with mandatoryfields***********
-2025-01-02 15:19:24,548 - root - INFO - *****************Start*********************
-2025-01-02 15:19:24,548 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:20:12,925 - root - INFO - *****************Start*********************
-2025-01-02 15:20:12,925 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:20:15,855 - root - INFO - ****************register success with mandatoryfields***********
-2025-01-02 15:20:30,152 - root - INFO - *****************Start*********************
-2025-01-02 15:20:30,152 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:21:49,554 - root - INFO - *****************Start*********************
-2025-01-02 15:21:49,555 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:21:52,414 - root - INFO - ****************register success with mandatoryfields***********
-2025-01-02 15:22:06,508 - root - INFO - *****************Start*********************
-2025-01-02 15:22:06,508 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:24:26,261 - root - INFO - *****************Start*********************
-2025-01-02 15:24:26,261 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:24:29,174 - root - INFO - ****************register success with mandatoryfields***********
-2025-01-02 15:24:43,405 - root - INFO - *****************Start*********************
-2025-01-02 15:24:43,405 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:24:51,185 - root - INFO - ****************testing register pass with duplicated email fields***********
-2025-01-02 15:25:07,342 - root - INFO - ****************testing register pass with different pass***********
-2025-01-02 15:27:12,831 - root - INFO - *****************Start*********************
-2025-01-02 15:27:12,831 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:27:15,590 - root - INFO - ****************register success with mandatoryfields***********
-2025-01-02 15:27:27,890 - root - INFO - *****************Start*********************
-2025-01-02 15:27:27,890 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:27:31,025 - root - INFO - ****************testing register pass with duplicated email fields***********
-2025-01-02 15:27:44,866 - root - INFO - ****************testing register pass with different pass***********
-2025-01-02 15:30:20,676 - root - INFO - *****************Start*********************
-2025-01-02 15:30:20,676 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:30:23,383 - root - INFO - ****************register success with mandatoryfields***********
-2025-01-02 15:30:35,543 - root - INFO - *****************Start*********************
-2025-01-02 15:30:35,543 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:30:38,276 - root - INFO - ****************testing register pass with duplicated email fields***********
-2025-01-02 15:30:52,104 - root - INFO - ****************testing register pass with different pass***********
-2025-01-02 15:32:16,462 - root - INFO - *****************Start*********************
-2025-01-02 15:32:16,462 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:32:19,096 - root - INFO - ****************register success with mandatoryfields***********
-2025-01-02 15:32:31,709 - root - INFO - *****************Start*********************
-2025-01-02 15:32:31,709 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:32:34,734 - root - INFO - ****************testing register pass with duplicated email fields***********
-2025-01-02 15:32:50,272 - root - INFO - ****************testing register pass with different pass***********
-2025-01-02 15:38:29,028 - root - INFO - *****************Start*********************
-2025-01-02 15:38:29,028 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:38:31,846 - root - INFO - ****************register success with mandatoryfields***********
-2025-01-02 15:38:43,997 - root - INFO - *****************Start*********************
-2025-01-02 15:38:43,998 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:38:46,847 - root - INFO - ****************testing register pass with duplicated email fields***********
-2025-01-02 15:39:00,392 - root - INFO - ****************testing register pass with different pass***********
-2025-01-02 15:44:25,983 - root - INFO - *****************Start*********************
-2025-01-02 15:44:25,983 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:44:28,495 - root - INFO - ****************register success with mandatoryfields***********
-2025-01-02 15:44:40,801 - root - INFO - *****************Start*********************
-2025-01-02 15:44:40,801 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:44:43,618 - root - INFO - ****************testing register pass with duplicated email fields***********
-2025-01-02 15:44:57,105 - root - INFO - ****************testing register pass with different pass***********
-2025-01-02 15:49:50,911 - root - INFO - *****************Start*********************
-2025-01-02 15:49:50,911 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:49:53,756 - root - INFO - ****************register success with mandatoryfields***********
-2025-01-02 15:50:05,944 - root - INFO - *****************Start*********************
-2025-01-02 15:50:05,944 - root - INFO - ***********Verifying register page ***********
-2025-01-02 15:50:09,073 - root - INFO - ****************testing register pass with duplicated email fields***********
-2025-01-02 15:50:24,687 - root - INFO - ****************testing register pass with different pass***********
-2025-01-02 16:07:49,433 - root - INFO - *****************Start*********************
-2025-01-02 16:07:49,433 - root - INFO - ***********Verifying register page ***********
-2025-01-02 16:07:52,093 - root - INFO - ****************register success with mandatoryfields***********
-2025-01-02 16:08:04,123 - root - INFO - *****************Start*********************
-2025-01-02 16:08:04,123 - root - INFO - ***********Verifying register page ***********
-2025-01-02 16:08:06,813 - root - INFO - ****************testing register pass with duplicated email fields***********
-2025-01-02 16:08:20,727 - root - INFO - ****************testing register pass with different pass***********
-2025-01-02 16:57:19,096 - root - INFO - *************** Start ****************
-2025-01-02 16:57:19,096 - root - INFO - ********* Verifying search page *********
-2025-01-02 16:57:19,877 - root - INFO - ********* testing search page for a valid product succeed*********
-2025-01-02 16:57:30,902 - root - INFO - ********* testing search page for a invalid product succeed*********
-2025-01-02 16:57:41,624 - root - INFO - ********* testing search page without entering any product succeed*********
+2025-01-17 21:12:42,449 - root - INFO - *****************Start*********************
+2025-01-17 21:12:42,449 - root - INFO - ***********Verifying cart page ************
+2025-01-17 21:12:42,764 - root - INFO - *****test click cart option when cart is empty Pass***
+2025-01-17 21:12:52,725 - root - INFO - *****************Start*********************
+2025-01-17 21:12:52,725 - root - INFO - ***********Verifying cart page ************
+2025-01-17 21:12:53,813 - root - INFO - *****test click cart button when cart is empty Pass***
+2025-01-17 21:13:03,114 - root - INFO - *****************Start*********************
+2025-01-17 21:13:03,114 - root - INFO - ***********Verifying cart page ***********
+2025-01-17 21:13:04,192 - root - INFO - *****test add mac to cart from homepage Pass***
+2025-01-17 21:13:04,557 - root - INFO - *****test the total price of cart after adding product from home page Pass***
+2025-01-17 21:13:13,825 - root - INFO - *************** Start ****************
+2025-01-17 21:13:13,825 - root - INFO - ********* Verifying cart page *********
+2025-01-17 21:13:15,445 - root - INFO - *****test add product to cart from search page Pass***
+2025-01-17 21:13:15,823 - root - INFO - *****test the total price of cart after adding product from search page Pass***
+2025-01-17 21:13:25,039 - root - INFO - *************** Start ****************
+2025-01-17 21:13:25,039 - root - INFO - ********* Verifying cart page *********
+2025-01-17 21:13:26,417 - root - INFO - *****test add product to cart from menu Pass***
+2025-01-17 21:13:26,800 - root - INFO - *****test the total price of cart after adding product from menu page Pass***
+2025-01-17 21:13:36,721 - root - INFO - *****************Start*********************
+2025-01-17 21:13:36,722 - root - INFO - ***********Verifying add mutiple products to cart  ***********
+2025-01-17 21:13:40,487 - root - INFO - *****test the total price of cart after adding mutiple products  Pass***
+2025-01-17 21:13:49,792 - root - INFO - *****************Start*********************
+2025-01-17 21:13:49,792 - root - INFO - ***********Verifying cart page ***********
+2025-01-17 21:13:52,676 - root - INFO - ***********modify the quantity in cart 0 pass***********
+2025-01-17 21:14:01,807 - root - INFO - *****************Start*********************
+2025-01-17 21:14:01,808 - root - INFO - ***********Verifying cart page ***********
+2025-01-17 21:14:04,771 - root - INFO - ***********modify the quantity in cart 1 pass***********
+2025-01-17 21:14:14,009 - root - INFO - *****************Start*********************
+2025-01-17 21:14:14,009 - root - INFO - ***********Verifying cart page ***********
+2025-01-17 21:14:16,900 - root - INFO - ***********modify the quantity in cart 929 pass***********
+2025-01-17 21:14:25,583 - root - INFO - *****************Start*********************
+2025-01-17 21:14:25,584 - root - INFO - ***********Verifying cart page ***********
+2025-01-17 21:14:28,464 - root - INFO - ***********modify the quantity in cart over stock pass***********
+2025-01-17 21:36:25,950 - root - INFO - *****************Start*********************
+2025-01-17 21:36:25,950 - root - INFO - ***********Verifying cart page ************
+2025-01-17 21:36:26,260 - root - INFO - *****test click cart option when cart is empty Pass***
+2025-01-17 21:36:36,173 - root - INFO - *****************Start*********************
+2025-01-17 21:36:36,173 - root - INFO - ***********Verifying cart page ************
+2025-01-17 21:36:37,268 - root - INFO - *****test click cart button when cart is empty Pass***
+2025-01-17 21:36:46,079 - root - INFO - *****************Start*********************
+2025-01-17 21:36:46,079 - root - INFO - ***********Verifying cart page ***********
+2025-01-17 21:36:47,171 - root - INFO - *****test add mac to cart from homepage Pass***
+2025-01-17 21:36:47,553 - root - INFO - *****test the total price of cart after adding product from home page Pass***
+2025-01-17 21:36:56,911 - root - INFO - *************** Start ****************
+2025-01-17 21:36:56,912 - root - INFO - ********* Verifying cart page *********
+2025-01-17 21:36:58,513 - root - INFO - *****test add product to cart from search page Pass***
+2025-01-17 21:36:58,910 - root - INFO - *****test the total price of cart after adding product from search page Pass***
+2025-01-17 21:37:07,682 - root - INFO - *************** Start ****************
+2025-01-17 21:37:07,682 - root - INFO - ********* Verifying cart page *********
+2025-01-17 21:37:09,045 - root - INFO - *****test add product to cart from menu Pass***
+2025-01-17 21:37:09,491 - root - INFO - *****test the total price of cart after adding product from menu page Pass***
+2025-01-17 21:37:18,739 - root - INFO - *****************Start*********************
+2025-01-17 21:37:18,739 - root - INFO - ***********Verifying add mutiple products to cart  ***********
+2025-01-17 21:37:22,516 - root - INFO - *****test the total price of cart after adding mutiple products  Pass***
+2025-01-17 21:37:31,597 - root - INFO - *****************Start*********************
+2025-01-17 21:37:31,597 - root - INFO - ***********Verifying cart page ***********
+2025-01-17 21:37:34,474 - root - INFO - ***********modify the quantity in cart 0 pass***********
+2025-01-17 21:37:43,094 - root - INFO - *****************Start*********************
+2025-01-17 21:37:43,094 - root - INFO - ***********Verifying cart page ***********
+2025-01-17 21:37:46,031 - root - INFO - ***********modify the quantity to 1 in cart pass***********
+2025-01-17 21:37:46,111 - root - INFO - *****test the total price of cart after modifying quantity to 1 Pass***
+2025-01-17 21:37:54,984 - root - INFO - *****************Start*********************
+2025-01-17 21:37:54,984 - root - INFO - ***********Verifying cart page ***********
+2025-01-17 21:37:57,908 - root - INFO - ***********modify the quantity in cart 929 pass***********
+2025-01-17 21:37:57,986 - root - INFO - *****test the total price of cart after modifying quantity to 929 Pass***
+2025-01-17 21:38:06,564 - root - INFO - *****************Start*********************
+2025-01-17 21:38:06,565 - root - INFO - ***********Verifying cart page ***********
+2025-01-17 21:38:09,397 - root - INFO - ***********modify the quantity in cart over stock pass***********
+2025-01-17 21:38:18,162 - root - INFO - *****************Start*********************
+2025-01-17 21:38:18,162 - root - INFO - ***********Verifying add mutiple products to cart  ***********
+2025-01-17 21:38:26,784 - root - INFO - *****************Start*********************
+2025-01-17 21:38:26,784 - root - INFO - ***********Verifying add mutiple products to cart  ***********
+2025-01-17 21:43:38,563 - root - INFO - *****************Start*********************
+2025-01-17 21:43:38,563 - root - INFO - ***********Verifying add mutiple products to cart  ***********
+2025-01-17 21:43:43,464 - root - INFO - *****test the total price of cart after removing one product  Pass***
+2025-01-17 21:43:52,243 - root - INFO - *****************Start*********************
+2025-01-17 21:43:52,243 - root - INFO - ***********Verifying add mutiple products to cart  ***********
+2025-01-17 21:47:50,519 - root - INFO - *****************Start*********************
+2025-01-17 21:47:50,520 - root - INFO - ***********Verifying add mutiple products to cart  ***********
+2025-01-17 21:47:55,388 - root - INFO - *****test the total price of cart after removing one product  Pass***
+2025-01-17 21:48:04,072 - root - INFO - *****************Start*********************
+2025-01-17 21:48:04,072 - root - INFO - ***********Verifying add mutiple products to cart  ***********
+2025-01-17 21:48:08,874 - root - INFO - ***********modify the quantity in cart 0 pass***********
+2025-01-17 21:48:22,261 - root - INFO - *****************Start*********************
+2025-01-17 21:48:22,261 - root - INFO - ***********Verifying add mutiple products to cart  ***********
+2025-01-17 21:48:27,064 - root - INFO - *****test the total price of cart after removing one product  Pass***
+2025-01-17 21:48:35,616 - root - INFO - *****************Start*********************
+2025-01-17 21:48:35,616 - root - INFO - ***********Verifying add mutiple products to cart  ***********
+2025-01-17 21:48:40,433 - root - INFO - ***********modify the quantity in cart 0 pass***********
